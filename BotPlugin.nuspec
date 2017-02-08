@@ -6,9 +6,8 @@
     <title>$title$</title>
     <authors>Kickupx</authors>
     <owners>Kickupx</owners>
-    <licenseUrl>http://LICENSE_URL_HERE_OR_DELETE_THIS_LINE</licenseUrl>
-    <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
-    <iconUrl>http://ICON_URL_HERE_OR_DELETE_THIS_LINE</iconUrl>
+    <licenseUrl>https://github.com/Kickupx/BotPlugin/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Kickupx/BotPlugin</projectUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <description>BotKitty plugin.</description>
     <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
