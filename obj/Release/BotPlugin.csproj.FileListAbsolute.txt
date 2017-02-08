@@ -1,0 +1,10 @@
+C:\Users\Adminiator.Jerrpan-W7\Documents\Projects\botkitty\BotKitty\BotPlugin\bin\Release\BotPlugin.dll
+C:\Users\Adminiator.Jerrpan-W7\Documents\Projects\botkitty\BotKitty\BotPlugin\bin\Release\BotPlugin.pdb
+C:\Users\Adminiator.Jerrpan-W7\Documents\Projects\botkitty\BotKitty\BotPlugin\bin\Release\HtmlAgilityPack.dll
+C:\Users\Adminiator.Jerrpan-W7\Documents\Projects\botkitty\BotKitty\BotPlugin\bin\Release\Newtonsoft.Json.dll
+C:\Users\Adminiator.Jerrpan-W7\Documents\Projects\botkitty\BotKitty\BotPlugin\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Adminiator.Jerrpan-W7\Documents\Projects\botkitty\BotKitty\BotPlugin\bin\Release\HtmlAgilityPack.xml
+C:\Users\Adminiator.Jerrpan-W7\Documents\Projects\botkitty\BotKitty\BotPlugin\bin\Release\Newtonsoft.Json.xml
+C:\Users\Adminiator.Jerrpan-W7\Documents\Projects\botkitty\BotKitty\BotPlugin\obj\Release\BotPlugin.csprojResolveAssemblyReference.cache
+C:\Users\Adminiator.Jerrpan-W7\Documents\Projects\botkitty\BotKitty\BotPlugin\obj\Release\BotPlugin.dll
+C:\Users\Adminiator.Jerrpan-W7\Documents\Projects\botkitty\BotKitty\BotPlugin\obj\Release\BotPlugin.pdb
